@@ -1,6 +1,7 @@
 - 👋 Hi, I’m My name is Ananiya Getinet @ananiya0000
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning python
+- 👀 I’m interested in more of Backend programming
+- 🌱 I’m currently learning python and Django
+- In the past i have worked on personal Flutter and React projects
 - 💞️ I’m looking to collaborate on python and javascript projects
 - 📫 How to reach me ananigd0@gmail.com
 
